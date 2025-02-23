@@ -1,2 +1,2 @@
-# PricerVanillaOptionsBS
-Pricing and modélisation of Vanilla Options using B&amp;S
+# Finance Projects
+Pricing and modelisation of different finance products
